@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinecraftPs3_TextureConverter_PCtoPS3", "MinecraftPs3_TextureConverter_PCtoPS3.csproj", "{FF5389E4-A771-483D-A951-5FA2DA220DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5389E4-A771-483D-A951-5FA2DA220DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5389E4-A771-483D-A951-5FA2DA220DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5389E4-A771-483D-A951-5FA2DA220DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5389E4-A771-483D-A951-5FA2DA220DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C474AD69-807A-4E87-BF94-5909570433FD}
+	EndGlobalSection
+EndGlobal
